@@ -24,7 +24,7 @@ class Drawer:
                 b[0], y_limit - b[1],
                 close=False,
                 fill='#eeee00',
-                stroke='black')
+                stroke='green')
             d.append(l)
         # draw vertexes
         r = min(map(lambda v: (v[0][0] - v[1][0])**2 + (v[0][1] - v[1][1])**2,
