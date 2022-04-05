@@ -3,12 +3,12 @@
      width="90" height="70" viewBox="0 -70 90 70">
 <defs>
 </defs>
-<path d="M10,-60 L10,-40" fill="#eeee00" stroke="black" />
-<path d="M10,-60 L50,-60" fill="#eeee00" stroke="black" />
-<path d="M10,-40 L10,-20" fill="#eeee00" stroke="black" />
-<path d="M10,-40 L30,-40" fill="#eeee00" stroke="black" />
-<path d="M50,-60 L50,-40" fill="#eeee00" stroke="black" />
-<path d="M50,-60 L70,-60" fill="#eeee00" stroke="black" />
+<path d="M10,-60 L10,-40" fill="#eeee00" stroke="green" />
+<path d="M10,-60 L50,-60" fill="#eeee00" stroke="green" />
+<path d="M10,-40 L10,-20" fill="#eeee00" stroke="green" />
+<path d="M10,-40 L30,-40" fill="#eeee00" stroke="green" />
+<path d="M50,-60 L50,-40" fill="#eeee00" stroke="green" />
+<path d="M50,-60 L70,-60" fill="#eeee00" stroke="green" />
 <circle cx="30" cy="-40" r="5" fill="red" />
 <circle cx="10" cy="-20" r="5" fill="red" />
 <circle cx="70" cy="-60" r="5" fill="red" />

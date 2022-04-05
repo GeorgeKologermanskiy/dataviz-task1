@@ -3,8 +3,8 @@
      width="50" height="50" viewBox="0 -50 50 50">
 <defs>
 </defs>
-<path d="M10,-40 L10,-20" fill="#eeee00" stroke="black" />
-<path d="M10,-40 L30,-40" fill="#eeee00" stroke="black" />
+<path d="M10,-40 L10,-20" fill="#eeee00" stroke="green" />
+<path d="M10,-40 L30,-40" fill="#eeee00" stroke="green" />
 <circle cx="10" cy="-40" r="5" fill="red" />
 <circle cx="30" cy="-40" r="5" fill="red" />
 <circle cx="10" cy="-20" r="5" fill="red" />

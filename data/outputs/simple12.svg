@@ -3,17 +3,17 @@
      width="110" height="110" viewBox="0 -110 110 110">
 <defs>
 </defs>
-<path d="M10,-100 L10,-80" fill="#eeee00" stroke="black" />
-<path d="M10,-100 L90,-100" fill="#eeee00" stroke="black" />
-<path d="M10,-80 L10,-60" fill="#eeee00" stroke="black" />
-<path d="M10,-80 L30,-80" fill="#eeee00" stroke="black" />
-<path d="M30,-80 L30,-60" fill="#eeee00" stroke="black" />
-<path d="M30,-80 L50,-80" fill="#eeee00" stroke="black" />
-<path d="M30,-60 L30,-40" fill="#eeee00" stroke="black" />
-<path d="M30,-40 L30,-20" fill="#eeee00" stroke="black" />
-<path d="M50,-80 L50,-60" fill="#eeee00" stroke="black" />
-<path d="M50,-80 L70,-80" fill="#eeee00" stroke="black" />
-<path d="M90,-100 L90,-80" fill="#eeee00" stroke="black" />
+<path d="M10,-100 L10,-80" fill="#eeee00" stroke="green" />
+<path d="M10,-100 L90,-100" fill="#eeee00" stroke="green" />
+<path d="M10,-80 L10,-60" fill="#eeee00" stroke="green" />
+<path d="M10,-80 L30,-80" fill="#eeee00" stroke="green" />
+<path d="M30,-80 L30,-60" fill="#eeee00" stroke="green" />
+<path d="M30,-80 L50,-80" fill="#eeee00" stroke="green" />
+<path d="M30,-60 L30,-40" fill="#eeee00" stroke="green" />
+<path d="M30,-40 L30,-20" fill="#eeee00" stroke="green" />
+<path d="M50,-80 L50,-60" fill="#eeee00" stroke="green" />
+<path d="M50,-80 L70,-80" fill="#eeee00" stroke="green" />
+<path d="M90,-100 L90,-80" fill="#eeee00" stroke="green" />
 <circle cx="30" cy="-80" r="5" fill="red" />
 <circle cx="10" cy="-60" r="5" fill="red" />
 <circle cx="90" cy="-80" r="5" fill="red" />
