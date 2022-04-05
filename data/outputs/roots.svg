@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="270" height="110" viewBox="0 -110 270 110">
+<defs>
+</defs>
+<path d="M10,-100 L10,-80" fill="#eeee00" stroke="black" />
+<path d="M10,-100 L90,-100" fill="#eeee00" stroke="black" />
+<path d="M10,-80 L10,-60" fill="#eeee00" stroke="black" />
+<path d="M10,-80 L30,-80" fill="#eeee00" stroke="black" />
+<path d="M30,-80 L30,-60" fill="#eeee00" stroke="black" />
+<path d="M30,-80 L50,-80" fill="#eeee00" stroke="black" />
+<path d="M30,-60 L30,-40" fill="#eeee00" stroke="black" />
+<path d="M30,-40 L30,-20" fill="#eeee00" stroke="black" />
+<path d="M50,-80 L50,-60" fill="#eeee00" stroke="black" />
+<path d="M50,-80 L70,-80" fill="#eeee00" stroke="black" />
+<path d="M90,-100 L90,-80" fill="#eeee00" stroke="black" />
+<path d="M130,-100 L130,-80" fill="#eeee00" stroke="black" />
+<path d="M130,-100 L170,-100" fill="#eeee00" stroke="black" />
+<path d="M130,-80 L130,-60" fill="#eeee00" stroke="black" />
+<path d="M130,-80 L150,-80" fill="#eeee00" stroke="black" />
+<path d="M170,-100 L170,-80" fill="#eeee00" stroke="black" />
+<path d="M170,-100 L190,-100" fill="#eeee00" stroke="black" />
+<path d="M230,-100 L230,-80" fill="#eeee00" stroke="black" />
+<path d="M230,-100 L250,-100" fill="#eeee00" stroke="black" />
+<circle cx="90" cy="-80" r="5" fill="red" />
+<circle cx="230" cy="-100" r="5" fill="red" />
+<circle cx="190" cy="-100" r="5" fill="red" />
+<circle cx="30" cy="-40" r="5" fill="red" />
+<circle cx="70" cy="-80" r="5" fill="red" />
+<circle cx="50" cy="-80" r="5" fill="red" />
+<circle cx="30" cy="-80" r="5" fill="red" />
+<circle cx="170" cy="-100" r="5" fill="red" />
+<circle cx="10" cy="-80" r="5" fill="red" />
+<circle cx="130" cy="-60" r="5" fill="red" />
+<circle cx="230" cy="-80" r="5" fill="red" />
+<circle cx="130" cy="-100" r="5" fill="red" />
+<circle cx="90" cy="-100" r="5" fill="red" />
+<circle cx="30" cy="-20" r="5" fill="red" />
+<circle cx="50" cy="-60" r="5" fill="red" />
+<circle cx="30" cy="-60" r="5" fill="red" />
+<circle cx="170" cy="-80" r="5" fill="red" />
+<circle cx="10" cy="-60" r="5" fill="red" />
+<circle cx="150" cy="-80" r="5" fill="red" />
+<circle cx="10" cy="-100" r="5" fill="red" />
+<circle cx="130" cy="-80" r="5" fill="red" />
+<circle cx="250" cy="-100" r="5" fill="red" />
+</svg>
